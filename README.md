@@ -32,7 +32,7 @@ Automatic detection of providers exceeding error thresholds.
 Click below to open in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/138HN9bdtow-9-x-bni4wv_LxNOwNUPMr?usp=sharing)
+(https://colab.research.google.com/github/yoyol1235/travel-booking-performance-analytics/blob/main/travel_api_performance_monitoring.ipynb)
 
 
 ## Author
