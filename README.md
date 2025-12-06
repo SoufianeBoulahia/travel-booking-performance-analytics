@@ -31,7 +31,8 @@ Automatic detection of providers exceeding error thresholds.
 ## How to Run
 Click below to open in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/138HN9bdtow-9-x-bni4wv_LxNOwNUPMr?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/138HN9bdtow-9-x-bni4wv_LxNOwNUPMr?usp=sharing)
 
 
 ## Author
